@@ -1,5 +1,9 @@
 # Web from scratch
 
+What can you create in 5 hours with an empty directory and no external libraries?
+
+## Overview
+
 One Sunday afternoon I got it into my head to see what I could whip up if I spent a few hours making a single-page web app from scratch. Total time spent: ~4.5 hours
 
 I encourage others to give it a try. Create an empty file and start typing.
@@ -12,6 +16,6 @@ Three rules:
 
 ## Usage
 
-Open `./wwwroot/index.html` in a browser 😲. But really, the whole point is the code, so open [`./wwwroot/scripts/main.js](./wwwroot/scripts/main.js) in VSCode.
+Open `./wwwroot/index.html` in a browser 😲. But really, the whole point is the code, so open [`./wwwroot/scripts/main.js`](./wwwroot/scripts/main.js) in VSCode.
 
 > I started working on navigation/history manipulation at about hour 4 and needed a server for that, so made a super small one. Upshot is you can also execute `dotnet run` from the root directory and open `http://localhost:5000`
