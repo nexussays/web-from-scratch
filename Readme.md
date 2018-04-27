@@ -18,4 +18,4 @@ Three rules:
 
 Open [`./wwwroot/index.html`](./wwwroot/index.html) in a browser 😲. But really, the whole point is the code, so open [`./wwwroot/scripts/main.js`](./wwwroot/scripts/main.js) in VSCode.
 
-> I started working on navigation/history manipulation at about hour 4 and needed a server for that, so made a super small one. Upshot is you can also execute `dotnet run` from the root directory and open `http://localhost:5000`
+> I started working on navigation/history manipulation at about hour 4 and needed a server for that. Upshot is you can also execute `dotnet run` from the root directory and open `http://localhost:5000`
